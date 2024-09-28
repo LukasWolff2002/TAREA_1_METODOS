@@ -1,0 +1,57 @@
+2.1.1 Preparacion area de trabajo
+
+Hay que demoler el hormigon inicial, suponemos 0.4 metros de espesor. El area inicial son 260 m2, por lo tanto hay que sacar 104 m3
+el rendimiento por jornal es de 1,92 m3 por dia
+
+Hay que demoler el asfalto inicial, suponemos 0.1 metros de espesor. El area inicial son 530 m2, por lo tanto hay que sacar 53 m3
+el rendimiento por jornal es de 1,92 m3 por dia
+
+2.1.2 Movimiento de tierras
+
+Hay que excavar 1.123.590 m3 de terreno de cualquier naturaleza, donde el rendimiento es 4.8 m3 por jornal por dia
+
+Formacion de construccion de terraplenes de 3.125.025 m3, el rendiemto por maquina es de 
+
+Hay que hacer una excavacion de escarpe, donde el rendiemitno por maquina es de
+
+2.1.3 Capas granulares
+
+En cada capa es nesesario generar una compactacion, el rendiento por jornal es de 192 m2 al dia, ademas el coste de la maquina compactadora es de 11.000 pesos al dia
+
+Sub base granular
+Carpeta granular
+Base granular
+
+2.1.4 Pavimentos
+
+2.1.5 Señaletica y Demarcacion
+
+
+
+
+
+2.2 Estructuras
+
+2.2.6 Acero para armaduras
+
+Hay que trabajar Kg de acero.
+
+Sumar transporte
+Los rendimeintos son los siguientes, 120 Kg de colocacion por dia por maestro
+
+
+2.2.7 Moldajes
+
+Hay que poner m2 de moldajes
+
+Asumiendo una fabricacion de moldajes de madera, se pueden fabricar 24 m2 por una cuadrilla de 2 maestros al dia
+
+2.2.8 Losa de aceso
+
+La losa de acceso tiene m3 de hormigon, se hacen 4 m3 por albañil al dia
+
+
+
+
+
+
